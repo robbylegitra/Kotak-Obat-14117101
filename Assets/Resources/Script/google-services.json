@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623815234436",
+    "project_id": "kotakobat-ee119",
+    "storage_bucket": "kotakobat-ee119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623815234436:android:23b47862b4c7b4e28383d1",
+        "android_client_info": {
+          "package_name": "com.Informatika.KotakObat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdFpnnc-XqCHmv9I5nSrCWsqhC4eMoP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

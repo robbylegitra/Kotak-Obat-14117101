@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tulang" size="500.000000 500.000000" />
+    <ImageTarget name="kolesterol" size="500.000000 500.000000" />
+    <ImageTarget name="darah" size="500.000000 500.000000" />
+    <ImageTarget name="lambung" size="500.000000 500.000000" />
+    <ImageTarget name="sample1" size="500.000000 500.000000" />
+  </Tracking>
+</QCARConfig>
